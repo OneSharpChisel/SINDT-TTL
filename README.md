@@ -1,4 +1,4 @@
-# SINRT-RS232
+# SINDT-TTL
 Developed tutorial: providing manual, datasheet, free software for Windows computer
 
 RELEASE NOTES
@@ -18,17 +18,17 @@ Unzip the .zip file and you will have a directory containing the files.
 Document download link:
 
 Github 
-https://github.com/WITMOTION/SINRT-RS232
+https://github.com/WITMOTION/SINDT-TTL
 
 Google Drive: 
-https://drive.google.com/drive/folders/1kDU9WZg5AKykH7-iNGe94PJZvt40EGYT?usp=sharing
+https://drive.google.com/open?id=1l74VhDvlR9x-oLzpLNZch2VA6hCTx-2X
 
 -----------
 Youtube Channael: 
 https://www.youtube.com/c/WITMOTION
 
-SINRT-RS232 Playlist: 
-https://www.youtube.com/playlist?list=PL43tdDrVL_VCpqK0qo8JLxlvgNavj2pcM
+SINDT-TTL Playlist: 
+https://www.youtube.com/watch?v=czfTN81Jsdg&list=PL43tdDrVL_VAKKdV-t1g0Hr2YFLJa2Bd8
 
 -----------
 After-sale Service& Technical Support: 
